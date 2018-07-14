@@ -3,6 +3,7 @@
 class Dog 
   
   def initialize(name,breed="Mutt")
+    # to set a default variable, make it in the argument section
     @name = name
     @breed = breed 
   end 
